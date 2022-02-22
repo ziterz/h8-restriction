@@ -20,7 +20,7 @@
 ## Installation:
 
 ```bash
-$ npm install h8-restriction
+$ npm install h8-restriction -D
 ```
 
 ## Usage:
